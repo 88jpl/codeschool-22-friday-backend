@@ -1,0 +1,27 @@
+{
+  "name": "test_backend-project",
+  "version": "0.0.1",
+  "description": "this is only a test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d00439987/codeschool-22-friday-backend.git"
+  },
+  "author": "Justin Patrick LeClair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d00439987/codeschool-22-friday-backend/issues"
+  },
+  "homepage": "https://github.com/d00439987/codeschool-22-friday-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.4.4",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
