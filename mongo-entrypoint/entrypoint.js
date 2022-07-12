@@ -1,0 +1,1 @@
+var db = connect("mongodb://user:password@localhost:27020/admin");
